@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExerciceTD1C</string>
+    <string name="nom">Nom</string>
+    <string name="Homme">Homme</string>
+    <string name="Femme">Femme</string>
+    <string name="Autre">Autre</string>
+    <string name="txtC">C</string>
+    <string name="txtCpp">C++</string>
+    <string name="txtJava">Java</string>
+    <string name="txtHomme">Homme</string>
+    <string name="txtFemme">Femme</string>
+    <string name="txtAutre">Autre</string>
+    <string name="txtNom">Nom</string>
+    <string name="txtValider">Valider</string>
+</resources>
